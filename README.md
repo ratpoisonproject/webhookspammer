@@ -1,4 +1,5 @@
 # webhookspammer
-# webhookspammer
-# webhookspammer
-# webhookspammer
+a simple program to spam discord webhooks
+
+## :warning: PLEASE ONLY USE THIS IN ETHICAL SITUATIONS!
+this was originally made to spam malicious webhooks, please do spam non-malicious webhooks!
