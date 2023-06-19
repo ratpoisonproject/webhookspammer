@@ -9,4 +9,4 @@ compile using `cargo run`
 
 
 ## :warning: PLEASE ONLY USE THIS IN ETHICAL SITUATIONS!
-this was originally made to spam malicious webhooks, please do spam non-malicious webhooks!
+this was originally made to spam malicious webhooks, please do not spam non-malicious webhooks!
